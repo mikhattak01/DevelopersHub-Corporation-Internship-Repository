@@ -131,18 +131,18 @@ Identify which customers are most likely to accept a personal loan offer, enabli
 # 📁 Repository Structure
 
 DEVELOPERSHUB CORPORATION PRACTICE GIT REPO/
-│
-├── 📓 Task 1.ipynb # Iris Species Analysis (EDA)
-├── 📓 Task 2.ipynb # Credit Risk Prediction
-├── 📓 Task 5.ipynb # Loan Acceptance Prediction
-│
-├── 📊 Datasets/
-│ ├── Iris.csv # Iris flower dataset
-│ ├── Loan Prediction.csv # Credit risk dataset
-│ └── bank-full.csv # Bank marketing dataset
-│
-├── 📈 credit_risk_report.png # Visual report for Task 2
-└── 📖 README.md # This file
+- │
+- ├── 📓 Task 1.ipynb 
+- ├── 📓 Task 2.ipynb 
+- ├── 📓 Task 5.ipynb 
+- │
+- ├── 📊 Datasets/
+- │ ├── Iris.csv 
+- │ ├── Loan Prediction.csv 
+- │ └── bank-full.csv 
+- │
+- ├── 📈 credit_risk_report.png 
+- └── 📖 README.md 
 
 ---
 
@@ -160,7 +160,7 @@ All three tasks showcase the complete data science workflow from data exploratio
 
 # 🤝 Connect With Me
 
-![LinkedIn](www.linkedin.com/in/mazhar-iqbal-khattak)
-![GitHub](https://github.com/mikhattak01)
+- ![LinkedIn](www.linkedin.com/in/mazhar-iqbal-khattak)
+- ![GitHub](https://github.com/mikhattak01)
 
 ---
